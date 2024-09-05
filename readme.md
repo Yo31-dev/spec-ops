@@ -6,4 +6,5 @@
 
 Have a look on each folder for having more information!
 
-(pnpm-lock -> linux ubuntu 20)
+> pnpm-lock -> linux ubuntu 20
+
